@@ -1,0 +1,22 @@
+.banner{
+    background-image: url(./piggy-bank.webp);
+    height: 1100px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#heading{
+    position: absolute;
+    top: 30%;
+    left: 8%;
+}
+
+section div h1{
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
